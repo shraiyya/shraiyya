@@ -1,3 +1,8 @@
+<h2 align="center">Hello there! My name is Shreya Pawaskar. 👋🤓</h2>
+<p align="left">I'm currently a student pursuing my Bachelor of Technology at Cummins College of Engineering Pune. I'm passionate about machine learning. I am a hackathon enthusiast and has participated in hackathons like the Smart India Hackathon 2020 and IBM Call for Code 2020. I was also an active volunteer in the Bhumi Paws Pune NGO. I have won the Techgig Geek Goddess American Express AI ML Hackathon in 2021.
+</p>
+
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shraiyya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shraiyya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
