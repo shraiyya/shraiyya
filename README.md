@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Shreya Pawaskar. 👋🤓</h2>
-<p align="left">I'm currently a student pursuing my Bachelor of Technology at Cummins College of Engineering Pune. I'm passionate about machine learning. I am a hackathon enthusiast and has participated in hackathons like the Smart India Hackathon 2020 and IBM Call for Code 2020. I was also an active volunteer in the Bhumi Paws Pune NGO. I have won the Techgig Geek Goddess American Express AI ML Hackathon in 2021.
+<p align="left">I'm currently a student pursuing MCS at UCI. I have worked as Technology Analyst in Citi till July 2023. I'm passionate about machine learning. I am a hackathon enthusiast and has participated in hackathons like the Smart India Hackathon 2020 and IBM Call for Code 2020. I was also an active volunteer in the Bhumi Paws Pune NGO. I have won the Techgig Geek Goddess American Express AI ML Hackathon in 2021.
 </p>
 
 
