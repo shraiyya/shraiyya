@@ -1,4 +1,9 @@
 <h2 align="center">Hello there! My name is Shreya Pawaskar. 👋🤓</h2>
+
+
+[![GitHub followers](https://img.shields.io/github/followers/shraiyya.svg?style=social&label=Follow)](https://github.com/shraiyya?tab=followers)
+
+
 <p align="left">
 I'm currently pursuing a Master of Computer Science (MCS) at the University of California, Irvine. Before starting my MCS, I completed my Bachelor of Technology in Computer Engineering at MKSSS's Cummins College of Engineering for Women in India.
 
@@ -31,6 +36,14 @@ Feel free to get in touch with me, and I'm excited to connect and collaborate in
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=shraiyya&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=shraiyya&repo=pixel-weather">
 </p> -->
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:pawaskas@uci.edu">![pawaskas@uci.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+ <a href="https://www.linkedin.com/in/shreya-pawaskar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.instagram.com/shraiyya/">![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+  Show ❤️ by starring repositories you find good! 
 
 
 <!--
