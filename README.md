@@ -2,7 +2,7 @@
 <p align="left">
 I'm currently pursuing a Master of Computer Science (MCS) at the University of California, Irvine. Before starting my MCS, I completed my Bachelor of Technology in Computer Engineering at MKSSS's Cummins College of Engineering for Women in India.
 
-In terms of work experience, I had the opportunity to work as a Technology Analyst at Citicorp Services India Limited India
+In terms of work experience, I had the opportunity to work as a Technology Analyst at Citicorp Services India Limited India.
 I also worked as a Summer Analyst Intern at Citicorp Services India Limited. In addition to my experience at Citicorp, I served as a Data Science Intern at Cloud Counselage. During my internship, I developed a classifier to predict a student's eligibility for an internship program.
 
 One project I'm proud of is "Sequence Level Understanding of the 3D Organization of Genome," where I used Markov Models and CNNs to distinguish between highly interacting and non-interacting genome regions. I achieved an accuracy of 99% and an AUC score of 80% using CNNs on real genomic data. I also applied the DeepShap algorithm to find traits that make certain regions more interactive.
