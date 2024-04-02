@@ -5,14 +5,15 @@
 
 
 <p align="left">
-I'm currently pursuing a Master of Computer Science (MCS) at the University of California, Irvine. Before starting my MCS, I completed my Bachelor of Technology in Computer Engineering at MKSSS's Cummins College of Engineering for Women in India.
+I'm currently pursuing a Master of Computer Science (MCS) at the University of California, Irvine. Before starting my MCS, I completed my Bachelor of Technology in Computer Engineering at MKSSS's Cummins College of Engineering for Women in India.  During my undergraduate studies, I delved into a wide range of coursework, including <b>Database Management, Data Mining & Warehousing, Design & Analysis of Algorithms, Internet of Things, Java Full Stack Technologies, Networks & Information Security, Operating Systems, Software Engineering, and Statistics</b>.
 
-In terms of work experience, I had the opportunity to work as a Technology Analyst at Citicorp Services India Limited India.
-I also worked as a Summer Analyst Intern at Citicorp Services India Limited. In addition to my experience at Citicorp, I served as a Data Science Intern at Cloud Counselage. During my internship, I developed a classifier to predict a student's eligibility for an internship program.
+In terms of work experience, I had the opportunity to work as a <b>Technology Analyst at Citicorp Services India Limited India</b>.  I contributed to streamlining payment processes, reducing transaction time, and enhancing client satisfaction through the implementation of Junit tests. Moreover, I orchestrated the deployment of high-quality applications using Scrum, Agile Methodology, Java, and Maven.
 
-One project I'm proud of is "Sequence Level Understanding of the 3D Organization of Genome," where I used Markov Models and CNNs to distinguish between highly interacting and non-interacting genome regions. I achieved an accuracy of 99% and an AUC score of 80% using CNNs on real genomic data. I also applied the DeepShap algorithm to find traits that make certain regions more interactive.
+I also worked as a Summer Analyst Intern at Citicorp Services India Limited, on software development and segregation of the Monolithic Codebase Migration in the TTS Unit. My efforts led to the optimization of Microservices deployment pipeline, resulting in faster release cycles and increased customer satisfaction. In addition to my experience at Citicorp, I served as a Data Science Intern at Cloud Counselage. During my internship, I developed a classifier to predict a student's eligibility for an internship program.
 
-Another project I worked on is "Carify," a web app that predicts car maintenance prices using machine learning and provides a health and maintenance index for car parts based on various factors. I also developed "MentorHub," an online web app that facilitates mentorship and guidance for juniors by matching them with seniors at a university.
+One project I'm proud of is <b>"Sequence Level Understanding of the 3D Organization of Genome</b>", where I used Markov Models and CNNs to distinguish between highly interacting and non-interacting genome regions. I achieved an accuracy of 99% and an AUC score of 80% using CNNs on real genomic data. I also applied the DeepShap algorithm to find traits that make certain regions more interactive. This interpretability aspect was crucial in gaining a deeper understanding of the biological mechanisms driving genome organization and function.
+
+Another project I worked on is "Carify," a web app that predicts car maintenance prices using machine learning and provides a health and maintenance index for car parts based on various factors.  "Carify" was recognized as a "Certified Potential Real Venture" by the Wadhwani Foundation after global jury evaluation from 11 countries. I also developed "MentorHub," an online web app that facilitates mentorship and guidance for juniors by matching them with seniors at a university.
 
 #### Technical Skills
 
@@ -23,6 +24,8 @@ Another project I worked on is "Carify," a web app that predicts car maintenance
 
 
 I'm actively involved in hackathons, having participated in events such as the Smart India Hackathon 2020 and IBM Call for Code 2020. I also volunteered with the Bhumi Paws Pune NGO. In 2021, I achieved a significant milestone by winning the Techgig Geek Goddess American Express AI ML Hackathon.
+
+In addition to my professional and academic pursuits, I actively engage in extracurricular activities. Currently, I serve as a Teaching Assistant for CSE 90: Systems Engineering & Technical Communication at UCI. I also held leadership positions, including Head of Website at the Artificial Intelligence & Computer Vision Society and Student Representative at the Society of Women Engineers (SWE) at Cummins College of Engineering for Women.
 
 Feel free to get in touch with me, and I'm excited to connect and collaborate in the world of technology, machine learning, and beyond.
 
