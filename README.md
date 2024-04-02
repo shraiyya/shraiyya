@@ -14,7 +14,13 @@ One project I'm proud of is "Sequence Level Understanding of the 3D Organization
 
 Another project I worked on is "Carify," a web app that predicts car maintenance prices using machine learning and provides a health and maintenance index for car parts based on various factors. I also developed "MentorHub," an online web app that facilitates mentorship and guidance for juniors by matching them with seniors at a university.
 
-In terms of technical skills, I am proficient in Python, Java, HTML, CSS, JavaScript, SQL, and MongoDB. My interests primarily revolve around Machine Learning, Deep Learning, Data Structures, and Algorithms.
+#### Technical Skills
+
+- **Programming Languages & Databases**: C, C++, Python, Java, HTML, CSS, JavaScript, R, SQL, MongoDB
+- **Tools**: Android Studio, Git, Jenkins, Docker, Colab, OpenShift, AWS, Maven, CI/CD, REST API, Jupyter
+- **ML Frameworks**: PyTorch, Seaborn, Scikit-learn, NumPy, Pandas, Keras, TensorFlow, NLTK
+- **Certifications**: GCP Essentials, Google Developer Essentials
+
 
 I'm actively involved in hackathons, having participated in events such as the Smart India Hackathon 2020 and IBM Call for Code 2020. I also volunteered with the Bhumi Paws Pune NGO. In 2021, I achieved a significant milestone by winning the Techgig Geek Goddess American Express AI ML Hackathon.
 
