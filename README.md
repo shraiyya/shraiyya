@@ -1,7 +1,11 @@
-<h2 align="center">Hello there! My name is Shreya Pawaskar. 👋🤓</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=460&size=30&pause=1000&color=DB38F7&center=true&vCenter=true&multiline=true&random=false&width=550&height=100&lines=Hello+there!+;My+name+is+Shreya.+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/shraiyya.svg?style=social&label=Follow)](https://github.com/shraiyya?tab=followers)
+ <a href="https://github.com/shraiyya?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shraiyya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/shraiyya?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shraiyya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
 
 
 <p align="left">
@@ -39,11 +43,17 @@ Feel free to get in touch with me, and I'm excited to connect and collaborate in
   <br>
   <br>
   <a href="https://www.buymeacoffee.com/shraiyya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="shraiyya" /></a>
+
+  
+  <a href="https://github.com/shraiyya/github-readme-activity-graph"><img alt="Shreya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=shraiyya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    
 </p>
 
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=shraiyya&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=shraiyya&repo=pixel-weather">
+
+
 </p> -->
 
 <h2>📫 How to reach me:</h2>
